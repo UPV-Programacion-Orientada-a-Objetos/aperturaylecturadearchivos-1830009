@@ -1,0 +1,4 @@
+01;Carlos;Orozco;orozco@upv.edu.mx;8341234567;Doctor;ITI;0
+02;Omar;Jasso;jasso@upv.edu.mx;8321234576;Maestria;ITI;01
+03;Arturo;Hernandez;almazan@upv.edu.mx;8347654321;Doctor;ITI;01
+
